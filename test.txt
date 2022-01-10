@@ -1,0 +1,6 @@
+
+If you've already read the file ("After reading in a file"), you've already read the first line! (Assuming there is at least one line.) – 
+William Pursell
+ Dec 15 '09 at 2:50
+3
+Note that the question as now worded has a different meaning than it originally did. Some answers now look silly as they took into account the "after reading in a file" part (
